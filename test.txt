@@ -1,2 +1,2 @@
-1. pierwsze zajęcia
-git add 
+1.perwsze zajęcia
+2. dopisano do pliku 
